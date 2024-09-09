@@ -1,4 +1,5 @@
 .gradle
+.idea
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -19,7 +20,7 @@ out/
 ### Eclipse ###
 .apt_generated
 .classpath
-.factorypath
+.factorypathk
 .project
 .settings
 .springBeans
